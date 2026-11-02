@@ -1,0 +1,10 @@
+Order_ID,Customer_Name,Product,Quantity,Unit_Price,Order_Date,Order_Value
+101,Rahul,Mobile,2.0,15000,2026-10-01,30000.0
+102,Amit,Laptop,1.0,55000,2026-10-02,55000.0
+103,Priya,Headphones,3.0,2000,2026-10-03,6000.0
+104,Sneha,Keyboard,2.0,1500,2026-10-04,3000.0
+106,Unknown,Monitor,1.0,12000,2026-10-05,12000.0
+107,Raj,Mouse,5.0,500,2026-10-06,2500.0
+108,Neha,Laptop,1.0,55000,2026-10-07,55000.0
+109,Arjun,Headphones,0.0,2000,2026-10-08,0.0
+110,Pooja,Keyboard,2.0,1500,2026-10-09,3000.0

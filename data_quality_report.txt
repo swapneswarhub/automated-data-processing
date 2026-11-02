@@ -1,0 +1,14 @@
+
+========================================
+       AUTOMATED DATA QUALITY REPORT
+========================================
+
+Original Records: 10
+Cleaned Records: 9
+Duplicate Records Identified: 1
+Missing Values Identified: 2
+Missing Values Remaining: 0
+
+Total Business Order Value: Rs. 166,500.00
+
+========================================
